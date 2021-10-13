@@ -1,4 +1,4 @@
-100 PROJECTS IN WEB DEVELOPMENT.
+
 
 1.Quote generator, Source:https://youtu.be/o5CdCETh8cQ
 
